@@ -18,7 +18,7 @@ Execute 'npm test' (ou 'npm t' para a versão curta) para rodar os testes no mod
 
 Ou, execute 'npm run cy:open' para abrir o Cypress no modo interativo.
 
-## CI/DC
+## CI/CD
 
 Criei uma pipeline que executa automaticamente todos os testes do projeto sempre que um push é feito no repositório. Para verificar a execução dos jobs, acesse a seção de Actions do projeto no GitHub.
 
