@@ -1,4 +1,4 @@
-# Desafio Teste
+# Desafio
 
 ## Pré-requisitos
 
