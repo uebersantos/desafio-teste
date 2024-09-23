@@ -1,6 +1,4 @@
-# Desafio VOX
-
-Projeto desenvolvido para desafio técnico.
+# Desafio
 
 ## Pré-requisitos
 
